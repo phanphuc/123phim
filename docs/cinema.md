@@ -4,9 +4,8 @@
 ```
 GET [API_PATH]/data/cinema?location_id=1
 
-Query:
-- p_cinema_id
-- location_id
+location_id: 0
+p_cinema_id: 0
 ```
 
 ### Response

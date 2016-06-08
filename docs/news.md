@@ -5,9 +5,9 @@
 GET [API_PATH]/data/news?type=4
 
 type_id:
-1-Tin điện ảnh
-4-Tin reviews
-8-Tin khuyến mãi
+    1=Tin điện ảnh
+    4=Tin reviews
+    8=Tin khuyến mãi
 ```
 
 ### Response

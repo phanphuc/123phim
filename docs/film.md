@@ -5,9 +5,9 @@
 GET [API_PATH]/data/film?status_id=2
 
 status_id:
-1-sắp chiếu
-2-đang chiếu
-3-đã chiếu
+    1-sắp chiếu
+    2-đang chiếu
+    3-đã chiếu
 ```
 
 ### Response

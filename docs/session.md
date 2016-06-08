@@ -22,8 +22,8 @@ version_id:
     41=4DX
 
 is_voice:
-   0=Phụ đề
-   1=Lồng tiếng
+    0=Phụ đề
+    1=Lồng tiếng
 ```
 
 ```json
