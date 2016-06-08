@@ -1,7 +1,9 @@
 # Get location list
 
 ### Request
+```
 GET /data/location
+```
 
 ### Response
 ```javascript
