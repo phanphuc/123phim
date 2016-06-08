@@ -1,4 +1,4 @@
-# Get location list
+# Location
 
 ### Request
 ```
