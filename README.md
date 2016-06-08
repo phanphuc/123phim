@@ -3,7 +3,7 @@
 Header Request:
 ```
 X-123F-Version: 3
-X-123F-Token: {token-key} (please contact 123Phim to get your key)
+X-123F-Token: {TOKEN_KEY} (please contact 123Phim to get your key)
 Content-Type: application/json
 ```
 
@@ -23,6 +23,10 @@ Data Service:
 
 
 Booking Service:
+* [Seat](https://github.com/phanphuc/123phim/blob/master/docs/booking/seat.md) (updating)
+    * [Seat Status](https://github.com/phanphuc/123phim/blob/master/docs/booking/seat.md#get-seat-status)
+    * [Seat Price](https://github.com/phanphuc/123phim/blob/master/docs/booking/seat.md#get-seat-price)
+
 * [Ticket Type](https://github.com/phanphuc/123phim/blob/master/docs/booking/ticket.md)
     * [Get Ticket Type](https://github.com/phanphuc/123phim/blob/master/docs/booking/ticket.md#get-ticket-type-list)
     * [Add Ticket Type](https://github.com/phanphuc/123phim/blob/master/docs/booking/ticket.md#add-ticket-type)
