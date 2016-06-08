@@ -14,6 +14,19 @@ end: yyyy-mm-dd
 
 ### Response
 ```json
+version_id:
+    1=IMAX
+    2=2D
+    3=3D
+    4=4D
+    41=4DX
+
+is_voice:
+   0=Không lồng tiếng
+   1=Có lồng tiếng
+```
+
+```json
 {
     "status": 1,
     "result": [{
