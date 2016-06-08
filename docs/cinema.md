@@ -3,6 +3,7 @@
 ### Request
 ```
 GET [API_PATH]/data/cinema?location_id=1
+
 Query:
 - p_cinema_id
 - location_id
