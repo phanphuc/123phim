@@ -4,7 +4,7 @@
 GET /data/location
 
 ### Response
-```
+```javascript
 {
     "status": 1,
     "result": [{
