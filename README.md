@@ -1,5 +1,17 @@
 # 123Phim
 
+Header Request:
+```
+X-123F-Version: 3
+X-123F-Token: {token-key} (please contact 123Phim to get your key)
+Content-Type: application/json
+```
+
+Header Response:
+```
+Content-Type: application/json
+```
+
 
 Data Service:
 * [Location](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
