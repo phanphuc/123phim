@@ -2,7 +2,7 @@
 
 ### Request
 ```
-GET /data/location
+GET [API_PATH]/data/location
 ```
 
 ### Response
