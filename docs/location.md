@@ -6,7 +6,7 @@ GET [API_PATH]/data/location
 ```
 
 ### Response
-```javascript
+```json
 {
     "status": 1,
     "result": [{
