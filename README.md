@@ -16,10 +16,10 @@ Content-Type: application/json
 Data Service:
 * [Location](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
 * [Cinema](https://github.com/phanphuc/123phim/blob/master/docs/data/cinema.md)
-* [Film](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
-* [Session](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
-* [Room](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
-* [News](https://github.com/phanphuc/123phim/blob/master/docs/data/location.md)
+* [Film](https://github.com/phanphuc/123phim/blob/master/docs/data/film.md)
+* [Session](https://github.com/phanphuc/123phim/blob/master/docs/data/session.md)
+* [Room](https://github.com/phanphuc/123phim/blob/master/docs/data/room.md)
+* [News](https://github.com/phanphuc/123phim/blob/master/docs/data/news.md)
 
 
 Booking Service:
